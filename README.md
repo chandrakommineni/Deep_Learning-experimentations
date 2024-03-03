@@ -1,10 +1,10 @@
 # CS7150-Homework-2
 
-There are three notebooks in this homework; you should work through all three of them.
+There are three notebooks in this repository
 
-- Homework 2.1 - Optimization and Network Architecture
-- Homework 2.2 - Neural Network CIFAR-10 Classification
-- Homework 2.3 - Denoising Autoencoder
+-  Optimization and Network Architecture
+-  Neural Network CIFAR-10 Classification
+-  Denoising Autoencoder
 
 Tasks:
 

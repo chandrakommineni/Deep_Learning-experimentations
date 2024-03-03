@@ -1,4 +1,3 @@
-# CS7150-Homework-2
 
 There are three notebooks in this repository
 
